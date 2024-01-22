@@ -4,7 +4,6 @@ user_pin = 9876
 user_balance = 97432.50
 user_name = "Ms. ABC"
 print("Welcome to your bank account", user_name, end = "\n\n")
-
 choice = 9
 while (True):
     print("\t\t0. Logout and Exit")
