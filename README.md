@@ -15,8 +15,6 @@ while (True):
     print("\t\t5. Return Card")
     choice = int(input("Enter number to proceed > "))
     print("\n\n")
-
-
     if choice == 0:
         print("Exiting...")
         t.sleep(2)
